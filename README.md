@@ -17,8 +17,8 @@ A simple feature matching algorithm is built to establish unique correspondence 
 Implementation demonstrated in B.2. Visualisation of said pointcloud occurs in B.1
 
 ### Spatial Transformations and Pointcloud Registration
-#### B.3
-Implementation of rigid transformation techniques
+#### Implementation of rigid transformation techniques
+B.3
 
 #### ICP procedure
 Implemented in B.4
