@@ -22,3 +22,12 @@ B.3
 
 #### ICP procedure
 Implemented in B.4
+
+## Part C | LiDAR-based Perception Module
+### Feature Extraction
+C.1 and C.2 are responsible for managing selected scalar features and the computation of a three-dimensional shape feature that can describe the three
+largest amounts of spread along the three orthogonal directions respectively
+
+### Data Split
+C.3 splits data into training and testing subsets
+
