@@ -63,5 +63,5 @@ C.1 and C.2 are responsible for managing selected scalar features and the comput
 largest amounts of spread along the three orthogonal directions respectively
 
 ### Data Split
-C.3 splits data into training and testing subsets
+C.3 splits data into training and testing subsets. C.4 uses the training feature matrix and class labels developed in C.1 and C.2 to train a multi-class SVM. The classification accuracy is published in the command window. In C.5, the classifier in C.4 is trained using only intensity features. This section explores the effect of incrementally adding one shape feature at a time in the training-testing process. Test accuracy is used as the performance metric in this section.
 
